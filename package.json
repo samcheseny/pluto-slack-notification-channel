@@ -1,0 +1,18 @@
+{
+  "name": "pluto-slack-notification-channel",
+  "version": "1.0.0",
+  "description": "Plugin for slack notifications from pluto logging library",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "jest --coverage --forceExit"
+  },
+  "keywords": [
+    "pluto",
+    "slack",
+    "logging",
+    "notification",
+    "channel"
+  ],
+  "author": "Samuel Ndara",
+  "license": "ISC"
+}
