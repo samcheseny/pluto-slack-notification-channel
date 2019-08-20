@@ -4,7 +4,7 @@ const url = require("url");
 class Slack {
   /**
    *
-   * @param {Object} webhook
+   * @param {String} webhook
    * @param {Object} body
    *
    * Sends the message to slack and returns a promise
